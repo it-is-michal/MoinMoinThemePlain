@@ -1,0 +1,15 @@
+Plain MoinMoin Theme
+====================
+
+About
+-----
+This theme is based on default 'modern' theme with some additions from
+Radomir Dopieralski's 'europython' theme
+(http://moinmo.in/ThemeMarket/Europython).
+
+It aims to look more like a private home page than a public wiki.
+
+Installation
+------------
+Simply download/clone and follow instructions from
+http://moinmo.in/HelpOnThemes#Installing_Themes
